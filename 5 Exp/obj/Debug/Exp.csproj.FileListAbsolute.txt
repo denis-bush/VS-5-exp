@@ -1,0 +1,30 @@
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\bin\Debug\5 Exp.exe.config
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\bin\Debug\5 Exp.exe
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\bin\Debug\5 Exp.pdb
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\Exp.csprojResolveAssemblyReference.cache
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\_5_Exp.ExpCalc.resources
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\_5_Exp.Properties.Resources.resources
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\Exp.csproj.GenerateResource.Cache
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\5 Exp.exe
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\5 Exp.pdb
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\bin\Debug\5 Exp.exe.config
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\5 Exp.exe
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\5 Exp.pdb
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\bin\Debug\5 Exp.exe
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\bin\Debug\5 Exp.pdb
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\Exp.csprojResolveAssemblyReference.cache
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\_5_Exp.ExpCalc.resources
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\_5_Exp.Properties.Resources.resources
+F:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\Exp.csproj.GenerateResource.Cache
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\5 Exp\5 Exp\bin\Debug\5 Exp.exe.config
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\5 Exp.exe
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\Projects\5 Exp\5 Exp\obj\Debug\5 Exp.pdb
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\bin\Debug\5 Exp.exe.config
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\obj\Debug\5 Exp.exe
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\obj\Debug\5 Exp.pdb
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\bin\Debug\5 Exp.exe
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\bin\Debug\5 Exp.pdb
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\obj\Debug\Exp.csprojResolveAssemblyReference.cache
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\obj\Debug\_5_Exp.ExpCalc.resources
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\obj\Debug\_5_Exp.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Учёба\Языки программирования\С# Projects\5 Exp\5 Exp\obj\Debug\Exp.csproj.GenerateResource.Cache

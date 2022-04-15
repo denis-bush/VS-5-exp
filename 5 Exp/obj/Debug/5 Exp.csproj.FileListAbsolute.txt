@@ -1,0 +1,2 @@
+E:\Учёба\Языки программирования\Projects\Exp\5 Exp\bin\Debug\5 Exp.exe.config
+E:\Учёба\Языки программирования\Projects\5 Exp\5 Exp\bin\Debug\5 Exp.exe.config
